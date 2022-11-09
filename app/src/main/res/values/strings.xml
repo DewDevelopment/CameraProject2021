@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mirea</string>
+    <string name="set1">Захват изображения</string>
+    <string name="button">вывод уведомления</string>
+    <string name="set2">Изображение</string>
+    <string name="set3">Запустить камеру</string>
+</resources>
